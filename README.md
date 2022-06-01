@@ -159,3 +159,8 @@ plt.show()
 ![output](.//t12.png)
 ![output](.//t13.png)
 ![output](.//t14.png)
+
+
+# Result:
+RESULT:
+Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
